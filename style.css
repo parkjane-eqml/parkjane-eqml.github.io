@@ -1,0 +1,53 @@
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  color: #222;
+}
+
+header {
+  background: #1f1f1f;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+nav {
+  margin-top: 0.5em;
+}
+
+nav a {
+  margin: 0 1em;
+  color: #00c4ff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+}
+
+.intro {
+  text-align: center;
+  font-size: 1.2em;
+  padding: 2em;
+  background: #f0f0f0;
+}
+
+footer {
+  background: #1f1f1f;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
